@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
-   
+   <a href="https://www.linkedin.com/in/ajith-kumar-p-m/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-b8bedd?style=flat&logo=linkedin&logoColor=333533"></a>
     <a href="https://github.com/Ajnass/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-b8bedd?style=flat&logo=github&logoColor=333533"></a>
     <a href="https://instagram.com/aj_na_s_s/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-b8bedd?style=flat&logo=instagram&logoColor=333533"></a>
     <a href="mailto:ajnass408@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-b8bedd?style=flat&logo=gmail&logoColor=333533"></a>
